@@ -1,0 +1,14 @@
+SMAP
+register_005fpage_jsp.java
+JSP
+*S JSP
+*F
++ 0 register_page.jsp
+register_page.jsp
++ 1 normal_navbar.jsp
+normal_navbar.jsp
+*L
+1,21:49
+1#1,46:70
+21#0,125:116
+*E
